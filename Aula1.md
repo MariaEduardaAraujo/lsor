@@ -55,25 +55,26 @@ sudo apt-get update
 Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e instalar as atualizações disponíveis para o sistema.
 
 ## 4. Capturas de Tela
-> **Figura 1 – Tela de Partições**
->
-> *[Inserir captura de tela aqui]*
+**Figura 1 – Tela de Partições**
 
-> **Figura 2 – Login como administrador**
->
-> *[Inserir captura de tela aqui]*
+<img width="400" height="196" alt="Captura de tela 2026-08-12 203109" src="https://github.com/user-attachments/assets/f6cbd225-2846-420d-8e24-7282c983b438" />
 
-> **Figura 3 – Saída do comando sudo**
->
-> *[Inserir captura de tela aqui]*
+
+**Figura 2 – Login como administrador**
+
+<img width="810" height="618" alt="Captura de tela 2026-08-12 203030" src="https://github.com/user-attachments/assets/ce37e0a9-ca54-43e9-9403-68b9948bbd9f" />
+
+
+**Figura 3 – Saída do comando sudo**
+
+<img width="603" height="167" alt="Captura de tela 2026-08-12 203055" src="https://github.com/user-attachments/assets/8b5f57b1-8532-4daa-8e52-6eab00392619" />
+
 
 ## 5. Conclusão
 
 A realização desta atividade possibilitou a instalação e configuração do **Ubuntu Server, 26.04**, permitindo compreender, na prática, os principais procedimentos envolvidos na preparação de um ambiente de servidor.
-Durante a atividade, foram realizadas as configurações necessárias para o funcionamento do sistema, além de testes para verificar a conectividade, o estado do sistema e o correto funcionamento dos recursos configurados.
+Durante a atividade, foram realizadas as configurações necessárias para o funcionamento do sistema, além de testes para verificar o estado do sistema e o correto funcionamento dos recursos configurados.
 Dessa forma, os objetivos propostos foram alcançados, proporcionando uma experiência prática com a administração e configuração de um sistema operacional baseado em Linux.
-
----
 
 ## Referências
 * Material disponibilizado pelo professor: https://github.com/alaelson/labredes-2026.2/blob/main/Aula1.md
