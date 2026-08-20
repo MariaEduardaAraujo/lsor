@@ -36,11 +36,17 @@ Foram realizados testes com os usuários fulano e novato. O primeiro conseguiu a
 Por fim, foi criado o grupo financeiro, com a inclusão dos usuários cicrano e beltrano, sendo realizados testes para verificar o funcionamento das permissões de acesso.
 
 ## 4. Capturas de Tela
-Figura 1 – Tentativa de acesso como fulano
-<img width="697" height="133" alt="Captura de tela 2026-08-19 211407" src="https://github.com/user-attachments/assets/250e84f1-a5b7-4cfe-9e71-0721754f1120" />
-Figura 2 – Tentativa de acesso como novato
+Figura 1 – Tentativa de acesso como fulano <br>
+<img width="455" height="127" alt="Captura de tela 2026-08-20 082411" src="https://github.com/user-attachments/assets/ddf0bc22-7107-43f3-9a18-f547b7a33dae" />
 
-Figura 3 – Criação do grupo financeiro
+
+Figura 2 – Tentativa de acesso como novato <br>
+<img width="358" height="95" alt="Captura de tela 2026-08-20 082442" src="https://github.com/user-attachments/assets/e16b5350-b53a-46c9-9fde-62f20807bb60" />
+
+
+Figura 3 – Exibindo participantes do grupo financeiro <br>
+<img width="479" height="65" alt="Captura de tela 2026-08-20 082536" src="https://github.com/user-attachments/assets/e114293d-33bd-452d-ae56-de8b7f657b3f" />
+
 
 ## 5. Conclusão
 A realização desta atividade possibilitou a criação de usuários e do grupo, permitindo compreender, na prática, os principais procedimentos envolvidos na configuração de usuários.
