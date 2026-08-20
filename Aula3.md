@@ -1,9 +1,9 @@
 # Relatório de Estrutura de Diretórios e Permissões Avançadas no Ubuntu Server
 
-> **Disciplina:** LSOR
-> **Professor(a):** Alaelson
-> **Aluno(a):** Maria Eduarda
-> **Data:** 19/08
+> **Disciplina:** LSOR <br>
+> **Professor(a):** Alaelson <br>
+> **Aluno(a):** Maria Eduarda <br>
+> **Data:** 19/08 <br>
 
 ## 1. Objetivo
 O objetivo desta atividade foi compreender a estrutura de diretórios do Linux, seguindo o padrão **Filesystem Hierarchy Standard (FHS)**, além de praticar a criação de estruturas de diretórios, gerenciamento de grupos e configuração de permissões de acesso.
