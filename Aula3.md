@@ -41,15 +41,18 @@ Por fim, foi criada uma estrutura para o departamento de Diretoria, com o grupo 
 
 ## 4. Testes e Capturas de Tela
 Figura 1 – Acesso permitido ao departamento de Tecnologia: <br>
+<img width="622" height="87" alt="Captura de tela 2026-08-20 100610" src="https://github.com/user-attachments/assets/01b61eb4-1cff-4c1c-942e-763a594252b3" />
 
 Figura 2 – Acesso negado ao departamento de Tecnologia: <br>
+<img width="349" height="54" alt="Captura de tela 2026-08-20 100706" src="https://github.com/user-attachments/assets/f21aba91-aeb9-479d-9daa-e602ab104c91" />
 
 Figura 3 – Testes de acesso ao diretório da Diretoria: <br>
+<img width="423" height="73" alt="Captura de tela 2026-08-20 101229" src="https://github.com/user-attachments/assets/ce82a265-2449-4802-873a-7d75131fa3a3" /><br>
+<img width="400" height="53" alt="Captura de tela 2026-08-20 101255" src="https://github.com/user-attachments/assets/d1a7fd9e-9ef8-4441-8c0b-13bf747deba1" />
+
 
 ## 5. Conclusão
-A realização desta atividade possibilitou compreender a organização dos diretórios do Linux segundo o padrão FHS e aplicar, na prática, conceitos de administração e segurança de arquivos e diretórios. <br>
-Foram criadas estruturas departamentais, grupos de usuários e diferentes níveis de permissões utilizando comandos como `mkdir`, `chown`, `chmod` e `usermod`. Os testes realizados demonstraram o funcionamento do isolamento entre departamentos, permitindo o acesso apenas aos usuários pertencentes aos respectivos grupos. <br>
-Além disso, a utilização do `su -` permitiu compreender a importância de realizar testes em um ambiente de login adequado. Dessa forma, os objetivos da atividade foram alcançados, reforçando os conhecimentos relacionados à organização do sistema de arquivos e ao controle de acesso em servidores Linux.
+A realização desta atividade possibilitou compreender a organização dos diretórios do Linux segundo o padrão FHS e aplicar, na prática, conceitos de administração e segurança de arquivos e diretórios. A utilização do `su -` permitiu compreender a importância de realizar testes em um ambiente de login adequado. Dessa forma, os objetivos da atividade foram alcançados, reforçando os conhecimentos relacionados à organização do sistema de arquivos e ao controle de acesso em servidores Linux.
 
 ## Referências
 * Material disponibilizado pelo professor — Aula 3: https://github.com/alaelson/labredes-2026.2/blob/main/Aula3.md
