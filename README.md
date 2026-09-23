@@ -5,3 +5,5 @@ Aula 1: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula1.md <br>
 Aula 2: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula2.md <br>
 Aula 3: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula3.md <br>
 Aula 4: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula4.md <br>
+Aula 5: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula5.md <br>
+Aula 6: https://github.com/MariaEduardaAraujo/lsor/blob/main/Aula6.md <br>
