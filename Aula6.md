@@ -45,7 +45,7 @@ Foi configurado o endereço IP estático, o gateway e os servidores DNS.
 Após a edição, o conteúdo foi verificado e a configuração foi aplicada.
 Por fim, foi verificado o endereço atribuído à interface
 
-### 4.2 Testes de conectividade
+### 3.2 Testes de conectividade
 
 Após a aplicação da configuração, foram realizados testes de comunicação entre o Windows e o Ubuntu Server.
 
@@ -73,7 +73,7 @@ e:
 traceroute one.one.one.one
 ```
 
-## 5. Testes e Evidências
+## 4. Testes e Evidências
 
 **Figura 1 – Teste de disponibilidade do endereço IP no Windows**
 
@@ -107,7 +107,7 @@ traceroute one.one.one.one
 
 <img width="707" height="165" alt="Captura de tela 2026-09-23 201448" src="https://github.com/user-attachments/assets/5249ac2c-f11b-4408-a4c2-805292ebfefd" />
 
-## 6. Conclusão
+## 5. Conclusão
 A realização desta atividade possibilitou compreender, na prática, a configuração de uma máquina virtual em modo **Placa em Ponte**, permitindo sua participação direta na rede física do laboratório.
 Também foi realizada a configuração de um endereço IP estático utilizando o **Netplan**, incluindo a definição da máscara de rede, gateway e servidores DNS. 
 Dessa forma, os objetivos da atividade foram alcançados, contribuindo para a compreensão da configuração de redes estáticas e do funcionamento de máquinas virtuais conectadas diretamente a uma rede local.
