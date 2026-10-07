@@ -55,11 +55,11 @@ Além disso, também foi testada a resolução de nomes como `nslookup google.co
 **Figura 5 – Prints/capturas dos testes executados na VM2** <br>
 <img width="539" height="499" alt="Captura de tela 2026-10-07 202906" src="https://github.com/user-attachments/assets/e14b2672-f65b-485e-b6e9-b60eba4188b2" />
 
-## 6. Problemas e Soluções <br>
+## 5. Problemas e Soluções <br>
 
 Nenhum problema foi encontrado.
 
-## 7. Conclusão
+## 6. Conclusão
 A realização desta atividade possibilitou compreender, na prática, o funcionamento de uma máquina Linux atuando como **gateway de uma rede interna**.
 Foi realizado o encaminhamento de pacotes IPv4 na VM1 e configurado o **NAT/MASQUERADE utilizando IPTables**, permitindo que a VM2 acessasse redes externas por meio do gateway.
 Além disso, as regras foram persistidas utilizando o `iptables-persistent`, garantindo que a configuração permanecesse disponível após uma reinicialização do sistema. <br>
