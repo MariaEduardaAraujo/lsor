@@ -52,7 +52,7 @@ Além disso, também foi testada a resolução de nomes como `nslookup google.co
 **Figura 4 – Saídas de sudo iptables -t nat -L -n -v e sudo iptables -L -n -v na VM1.**
 <img width="959" height="452" alt="Captura de tela 2026-10-07 201911" src="https://github.com/user-attachments/assets/1ae4e874-7b8c-4d1a-a14b-137d18ad0839" />
 
-**Figura 5 – Prints/capturas dos testes executados na VM2**
+**Figura 5 – Prints/capturas dos testes executados na VM2** <br>
 <img width="539" height="499" alt="Captura de tela 2026-10-07 202906" src="https://github.com/user-attachments/assets/e14b2672-f65b-485e-b6e9-b60eba4188b2" />
 
 ## 6. Problemas e Soluções <br>
