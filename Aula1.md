@@ -9,13 +9,11 @@
 > **Data:** 12/08
 
 ## 1. Objetivo
-
 O objetivo desta atividade foi realizar a instalação e configuração do **Ubuntu Server, 26.04**, preparando um ambiente de servidor funcional para a execução das atividades propostas na disciplina.
 Durante o procedimento, foram realizadas as configurações necessárias para disponibilizar o sistema operacional, verificar seu funcionamento e testar os principais recursos configurados.
 
 
 ## 2. Ambiente
-
 A atividade foi realizada utilizando o seguinte ambiente:
 
 | Item                        | Especificação                           |
@@ -31,7 +29,6 @@ A atividade foi realizada utilizando o seguinte ambiente:
 ## 3. Procedimento
 
 ### 3.1 Criação da máquina virtual e Instalação do Ubuntu Server
-
 Foi criada uma máquina virtual destinada à instalação do Ubuntu Server seguindo as instruções presentes do repositório da disciplina.
 
 Inicialmente, foi realizada a inicialização da máquina virtual utilizando a imagem ISO do Ubuntu Server.
@@ -45,13 +42,11 @@ Durante a instalação, foram configurados:
 5. Reinicialização do sistema.
 
 ### 3.2 Atualização do sistema
-
 Após a instalação, o sistema foi atualizado utilizando os seguintes comandos:
 
 ```bash
 sudo apt-get update
 ```
-
 Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e instalar as atualizações disponíveis para o sistema.
 
 ## 4. Capturas de Tela
@@ -69,9 +64,10 @@ Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e
 
 <img width="603" height="167" alt="Captura de tela 2026-08-12 203055" src="https://github.com/user-attachments/assets/8b5f57b1-8532-4daa-8e52-6eab00392619" />
 
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado.
 
-## 5. Conclusão
-
+## 6. Conclusão
 A realização desta atividade possibilitou a instalação e configuração do **Ubuntu Server, 26.04**, permitindo compreender, na prática, os principais procedimentos envolvidos na preparação de um ambiente de servidor.
 Durante a atividade, foram realizadas as configurações necessárias para o funcionamento do sistema, além de testes para verificar o estado do sistema e o correto funcionamento dos recursos configurados.
 Dessa forma, os objetivos propostos foram alcançados, proporcionando uma experiência prática com a administração e configuração de um sistema operacional baseado em Linux.
