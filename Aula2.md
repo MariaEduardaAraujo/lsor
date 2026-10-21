@@ -47,8 +47,10 @@ Figura 2 – Tentativa de acesso como novato <br>
 Figura 3 – Exibindo participantes do grupo financeiro <br>
 <img width="479" height="65" alt="Captura de tela 2026-08-20 082536" src="https://github.com/user-attachments/assets/e114293d-33bd-452d-ae56-de8b7f657b3f" />
 
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado.
 
-## 5. Conclusão
+## 6. Conclusão
 A realização desta atividade possibilitou a criação de usuários e do grupo, permitindo compreender, na prática, os principais procedimentos envolvidos na configuração de usuários.
 Durante a atividade, foram realizadas as configurações necessárias para a criação dos mesmos, além de testes para verificar o correto funcionamento dos recursos configurados.
 Dessa forma, os objetivos propostos foram alcançados, proporcionando uma experiência prática com a administração e configuração de usuários em um sistema baseado em Linux.
