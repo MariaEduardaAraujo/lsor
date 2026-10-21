@@ -29,7 +29,6 @@ O arquivo foi criado e editado utilizando o Nano:
 ```bash
 nano usuarios.txt
 ```
-
 Foram inseridos os usuários:
 
 ```text
@@ -59,7 +58,6 @@ done
 
 echo "Processo de criação concluído!"
 ```
-
 O script utiliza uma estrutura de repetição `for` para percorrer cada nome presente no arquivo `usuarios.txt`. Além disso, `cat` foi utilizado para ler o conteúdo do arquivo contendo a lista de usuários.
 A opção `-m` cria automaticamente o diretório pessoal do usuário e a opção `-s /bin/bash` define o Bash como interpretador de comandos padrão.
 
@@ -116,7 +114,10 @@ Realizou a definição das senhas dos usuários criados.
 **Figura 3 – Teste de login com um usuário criado** <br>
 <img width="359" height="57" alt="image" src="https://github.com/user-attachments/assets/48a48e82-39d4-410c-922e-d22af962311d" />
 
-## 5. Conclusão
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado.
+
+## 6. Conclusão
 A realização desta atividade possibilitou compreender, na prática, a manipulação e a edição de arquivos no sistema operacional Linux. A criação dos scripts em Shell também demonstrou a importância da automação na administração de sistemas.
 Dessa forma, os objetivos propostos foram alcançados, proporcionando uma melhor compreensão sobre a utilização do terminal Linux, a manipulação de arquivos, o gerenciamento de permissões e a automação de tarefas administrativas.
 
