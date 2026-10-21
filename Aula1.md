@@ -1,11 +1,9 @@
 # Relatório de Configuração do Ubuntu Server
 
-> **Disciplina:** LSOR
-> 
-> **Professor(a):** Alaelson
-> 
-> **Aluno(a):** Maria Eduarda
-> 
+> **Disciplina:** LSOR <br>
+> **Professor(a):** Alaelson <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
 > **Data:** 12/08
 
 ## 1. Objetivo
@@ -23,7 +21,7 @@ A atividade foi realizada utilizando o seguinte ambiente:
 | Memória RAM                 | 2 GB                                    |
 | Processadores               | 1 vCPUs                                 |
 | Armazenamento               | 32 GB                                   |
-| Rede                        | -                                       |
+| Rede                        | NAT, enp0s3, 10.0.2.15/24               |
 | Computador hospedeiro       | Windows 11                              |
 
 ## 3. Procedimento
