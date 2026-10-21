@@ -50,8 +50,10 @@ Figura 3 – Testes de acesso ao diretório da Diretoria: <br>
 <img width="423" height="73" alt="Captura de tela 2026-08-20 101229" src="https://github.com/user-attachments/assets/ce82a265-2449-4802-873a-7d75131fa3a3" /><br>
 <img width="400" height="53" alt="Captura de tela 2026-08-20 101255" src="https://github.com/user-attachments/assets/d1a7fd9e-9ef8-4441-8c0b-13bf747deba1" />
 
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado.
 
-## 5. Conclusão
+## 6. Conclusão
 A realização desta atividade possibilitou compreender a organização dos diretórios do Linux segundo o padrão FHS e aplicar, na prática, conceitos de administração e segurança de arquivos e diretórios. A utilização do `su -` permitiu compreender a importância de realizar testes em um ambiente de login adequado. Dessa forma, os objetivos da atividade foram alcançados, reforçando os conhecimentos relacionados à organização do sistema de arquivos e ao controle de acesso em servidores Linux.
 
 ## Referências
