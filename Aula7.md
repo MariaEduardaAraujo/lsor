@@ -69,7 +69,7 @@ Já na VM2, foi configurado o endereço IP `10.0.0.14/24`, utilizando a VM1 (`10
 Estes testes não funcionaram, pois não foi criada uma NAT.
 
 **Figura 6 – Traceroute para domínio externo** <br>
-Não foi possível executar este teste, pois a máquina não tem acesso a rede para baixar o pacote necessário (traceroute).
+<img width="675" height="45" alt="Captura de tela 2026-10-21 211348" src="https://github.com/user-attachments/assets/865ca5b8-44c0-48d5-9952-ad20e6ce3d3c" />
 
 ## 6. Problemas e Soluções
 ### 6.1 Problemas de conectividade entre as máquinas virtuais
