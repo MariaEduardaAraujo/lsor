@@ -49,18 +49,19 @@ Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e
 
 ## 4. Capturas de Tela
 **Figura 1 – Tela de Partições**
-
 <img width="400" height="196" alt="Captura de tela 2026-08-12 203109" src="https://github.com/user-attachments/assets/f6cbd225-2846-420d-8e24-7282c983b438" />
 
-
 **Figura 2 – Login como administrador**
-
 <img width="810" height="618" alt="Captura de tela 2026-08-12 203030" src="https://github.com/user-attachments/assets/ce37e0a9-ca54-43e9-9403-68b9948bbd9f" />
 
-
-**Figura 3 – Saída do comando sudo**
-
+**Figura 3 – Saída do comando sudo** <br>
 <img width="603" height="167" alt="Captura de tela 2026-08-12 203055" src="https://github.com/user-attachments/assets/8b5f57b1-8532-4daa-8e52-6eab00392619" />
+
+**Figura 4 - Saída ip addr**
+<img width="863" height="159" alt="Captura de tela 2026-10-21 205737" src="https://github.com/user-attachments/assets/0a1cdf12-d91b-42cb-b053-f1c622d653c4" />
+
+**Figura 5 - Saída df -h**  <br>
+<img width="800" height="245" alt="Captura de tela 2026-10-21 205159" src="https://github.com/user-attachments/assets/a87bbb27-fc44-4463-bcd9-674cea30d4b5" />
 
 ## 5. Problemas e Soluções
 Nenhum problema foi encontrado.
