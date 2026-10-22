@@ -105,6 +105,14 @@ Realizou a criação dos 20 usuários presentes no arquivo `usuarios.txt`.
 Realizou a definição das senhas dos usuários criados.
 
 ## 4. Capturas de Tela
+**Figura 0 - Manipulação de arquivos** <br>
+<img width="463" height="60" alt="Captura de tela 2026-10-21 210318" src="https://github.com/user-attachments/assets/35d7625c-9906-4c59-9a06-06ae8c1d5d74" /> <br>
+<img width="385" height="95" alt="Captura de tela 2026-10-21 210419" src="https://github.com/user-attachments/assets/c021dcb7-74b8-4fc1-b40f-1ee0bd9e02f3" /> <br>
+<img width="343" height="22" alt="Captura de tela 2026-10-21 210505" src="https://github.com/user-attachments/assets/e6050d88-c615-43b8-9d61-80799da16e3d" /> <br>
+<img width="472" height="32" alt="Captura de tela 2026-10-21 210513" src="https://github.com/user-attachments/assets/27e380d5-3cc1-4893-b753-34e04068f810" /> <br>
+<img width="558" height="20" alt="Captura de tela 2026-10-21 210555" src="https://github.com/user-attachments/assets/541a94d5-dc72-4e74-a0ab-0030ac3c6048" /> <br>
+<img width="438" height="69" alt="Captura de tela 2026-10-21 210657" src="https://github.com/user-attachments/assets/7c305ff8-cb3e-433d-85b7-056d796aecfd" /> <br>
+
 **Figura 1 – Validação dos usuários criados** <br>
 <img width="475" height="345" alt="image" src="https://github.com/user-attachments/assets/93759c56-1a70-4077-a907-3a3ca127544f" />
 
