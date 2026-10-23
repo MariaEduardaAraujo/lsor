@@ -22,7 +22,7 @@ A atividade foi realizada utilizando o seguinte ambiente:
 | Memória RAM                 | 2 GB                                    |
 | Processadores               | 1 vCPUs                                 |
 | Armazenamento               | 32 GB                                   |
-| Rede                        | Bridge, enp0s3, 10.0.2.15/24            |
+| Rede                        | NAT, enp0s3, 10.0.2.15/24               |
 | Computador hospedeiro       | Windows 11                              |
 
 ## 3. Procedimento
