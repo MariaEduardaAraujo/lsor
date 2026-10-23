@@ -2,8 +2,11 @@
 
 > **Disciplina:** LSOR <br>
 > **Professor(a):** Alaelson <br>
-> **Aluno(a):** Maria Eduarda <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
 > **Data:** 07/10/2026
+
 
 ## 1. Objetivo
 O objetivo desta atividade foi configurar a **VM1 como gateway da rede interna**, habilitando o encaminhamento de pacotes IPv4 
@@ -21,7 +24,7 @@ A atividade foi realizada utilizando duas máquinas virtuais:
 | Função              | Gateway             | Cliente             |
 | Interface interna   | `enp0s8`            | intnet              |
 | Interface externa   | `enp0s3`            | -                   |
-| Rede interna        | `172.20.23.13/22`   | `10.0.0.14/24`      |
+| Rede externa        | `172.20.23.13/22`   | `10.0.0.14/24`      |
 | Gateway interno     | `172.20.20.1`       | `10.0.0.13`         |
 
 ## 3. Procedimento
