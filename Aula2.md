@@ -35,7 +35,7 @@ Foi criado o diretório /srv/projeto, cujo proprietário foi definido como admin
 Foram realizados testes com os usuários fulano e novato. O primeiro conseguiu acessar e modificar os arquivos por pertencer ao grupo devs, enquanto o segundo teve o acesso negado.
 
 ### 3.4 Grupo financeiro
-Por fim, foi criado o grupo financeiro, com a inclusão dos usuários cicrano e beltrano, sendo realizados testes para verificar o funcionamento das permissões de acesso.
+Por fim, foi criado o grupo financeiro, com a inclusão dos usuários cicrano e beltrano, sendo realizados testes para verificar o funcionamento das permissões de acesso. Nos testes realizados, o usuário Cicrano criou um arquivo no diretório /srv/financeiro e os usuários fulano e novato tiveram os seus acessos negados, pois não possuiam permissões para acessarem esse diretório.
 
 ## 4. Capturas de Tela
 
