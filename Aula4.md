@@ -25,7 +25,7 @@ A atividade foi realizada utilizando o seguinte ambiente:
 
 ## 3. Procedimento
 ### 3.0 Execução de comandos 
-Antes da execução da atividade foram executados comandos como o touch e mv para fins de conhecimento destes comandos.
+Antes da execução da atividade foram executados comandos como o touch, nano, cp, mv, rm -i, rm -rf para fins de conhecimento destes comandos.
 
 ### 3.1 Criação da lista de usuários
 Foi criado o arquivo `usuarios.txt`, contendo uma lista de 20 usuários que seriam cadastrados automaticamente.
