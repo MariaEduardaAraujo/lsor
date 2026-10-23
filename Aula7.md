@@ -1,9 +1,11 @@
 # Relatório de Configuração de Gateway NAT com IPTables
 
 > **Disciplina:** LSOR <br>
-> **Professor(a):** Alaelson<br>
-> **Aluno(a):** Maria Eduarda<br>
-> **Data:** 30/09/2026 <br>
+> **Professor(a):** Alaelson <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
+> **Data:** 30/09/2026
 
 ## 1. Objetivo
 O objetivo desta atividade foi configurar um servidor Ubuntu como **Gateway de Rede**, permitindo a comunicação entre uma rede interna e uma rede externa 
@@ -70,6 +72,8 @@ Estes testes não funcionaram, pois não foi criada uma NAT.
 
 **Figura 6 – Traceroute para domínio externo** <br>
 <img width="675" height="45" alt="Captura de tela 2026-10-21 211348" src="https://github.com/user-attachments/assets/865ca5b8-44c0-48d5-9952-ad20e6ce3d3c" />
+
+Este teste não funciona corretamente, pois não foi criada uma NAT
 
 ## 6. Problemas e Soluções
 ### 6.1 Problemas de conectividade entre as máquinas virtuais
