@@ -2,7 +2,9 @@
 
 > **Disciplina:** LSOR <br>
 > **Professor(a):** Alaelson <br>
-> **Aluno(a):** Maria Eduarda <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
 > **Data:** 23/09/2026
 
 ## 1. Objetivo
@@ -41,9 +43,33 @@ No Ubuntu Server, foi editado o arquivo:
 sudo nano /etc/netplan/00-installer-config.yaml
 ```
 
-Foi configurado o endereço IP estático, o gateway e os servidores DNS. 
-Após a edição, o conteúdo foi verificado e a configuração foi aplicada.
-Por fim, foi verificado o endereço atribuído à interface
+Foi configurado o endereço IP estático, o gateway e os servidores DNS, conforme este script: 
+```
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp0s3:
+      dhcp4: false
+      addresses:
+        - 172.20.23.1/22
+      routes:
+        - to: default
+          via: 172.20.20.1
+      nameservers:
+        addresses:
+          - 172.20.20.1
+          - 1.1.1.1
+          - 8.8.8.8
+```
+Após a edição, o conteúdo foi verificado e a configuração foi aplicada, utilizando para isso o comando:
+```bash
+sudo netplan apply
+```
+Por fim, foi verificado o endereço atribuído à interface, com o comando:
+```bash
+ip addr
+```
 
 ### 3.2 Testes de conectividade
 
@@ -107,7 +133,10 @@ traceroute one.one.one.one
 
 <img width="707" height="165" alt="Captura de tela 2026-09-23 201448" src="https://github.com/user-attachments/assets/5249ac2c-f11b-4408-a4c2-805292ebfefd" />
 
-## 5. Conclusão
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado durante a execução desta atividade.
+
+## 6. Conclusão
 A realização desta atividade possibilitou compreender, na prática, a configuração de uma máquina virtual em modo **Placa em Ponte**, permitindo sua participação direta na rede física do laboratório.
 Também foi realizada a configuração de um endereço IP estático utilizando o **Netplan**, incluindo a definição da máscara de rede, gateway e servidores DNS. 
 Dessa forma, os objetivos da atividade foram alcançados, contribuindo para a compreensão da configuração de redes estáticas e do funcionamento de máquinas virtuais conectadas diretamente a uma rede local.
