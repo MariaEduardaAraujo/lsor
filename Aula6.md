@@ -52,7 +52,7 @@ network:
     enp0s3:
       dhcp4: false
       addresses:
-        - 172.20.23.1/22
+        - 172.20.23.13/22
       routes:
         - to: default
           via: 172.20.20.1
