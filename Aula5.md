@@ -1,7 +1,10 @@
 # Relatório de Acesso Remoto SSH e Diagnóstico de Rede
+
 > **Disciplina:** LSOR <br>
 > **Professor(a):** Alaelson <br>
-> **Aluno(a):** Maria Eduarda <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
 > **Data:** 09/09/2026
 
 ## 1. Objetivo
@@ -33,7 +36,7 @@ Inicialmente, foi realizada a verificação do estado das interfaces de rede da 
 Foi possível observar a interface `enp0s3` configurada utilizando DHCP e recebendo o endereço IP `10.0.2.15/24`.
 
 ### 3.2 Inspeção das interfaces com `ifconfig`
-Após a instalação dos utilitários, foi executado:
+Após a instalação do pacote necessário, foi executado:
 
 ```text
 ifconfig
@@ -106,6 +109,9 @@ Figura 8 – `netstat` durante a sessão SSH, mostrando `ESTABLISHED`; <img widt
 <br>
 Figura 9 – Comando `w` mostrando a sessão `pts/0`. <img width="853" height="152" alt="Captura de tela 2026-09-10 084915" src="https://github.com/user-attachments/assets/cb0788da-7dcf-4871-b42f-de3339da91a4" />
 <br>
+
+## 5. Problemas e Soluções
+Nenhum problema foi encontrado durante a execução desta atividade.
 
 ## 6. Conclusão
 A realização desta atividade permitiu compreender, na prática, o funcionamento do NAT em um ambiente virtualizado e sua relação com o acesso remoto por meio 
