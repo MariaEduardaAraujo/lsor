@@ -4,7 +4,8 @@
 > **Professor(a):** Alaelson <br>
 > **Aluno(a):** Maria Eduarda de Araújo Silva <br>
 > **Matrícula:** 2023007122 <br>
-> **Data:** 12/08
+> **Turma:** BSI 2026.02 <br>
+> **Data:** 12/08/2026
 
 ## 1. Objetivo
 O objetivo desta atividade foi realizar a instalação e configuração do **Ubuntu Server, 26.04**, preparando um ambiente de servidor funcional para a execução das atividades propostas na disciplina.
@@ -58,13 +59,13 @@ Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e
 <img width="603" height="167" alt="Captura de tela 2026-08-12 203055" src="https://github.com/user-attachments/assets/8b5f57b1-8532-4daa-8e52-6eab00392619" />
 
 **Figura 4 - Saída ip addr**
-<img width="863" height="159" alt="Captura de tela 2026-10-21 205737" src="https://github.com/user-attachments/assets/0a1cdf12-d91b-42cb-b053-f1c622d653c4" />
+<img width="863" height="159" alt="680917185-0a1cdf12-d91b-42cb-b053-f1c622d653c4" src="https://github.com/user-attachments/assets/f7dd087b-db70-46f0-a28d-c92cae01febb" />
 
 **Figura 5 - Saída df -h**  <br>
-<img width="800" height="245" alt="Captura de tela 2026-10-21 205159" src="https://github.com/user-attachments/assets/a87bbb27-fc44-4463-bcd9-674cea30d4b5" />
+<img width="774" height="223" alt="680918032-a87bbb27-fc44-4463-bcd9-674cea30d4b5" src="https://github.com/user-attachments/assets/69802279-7fae-401c-8adf-03d71027d39d" />
 
 ## 5. Problemas e Soluções
-Nenhum problema foi encontrado.
+Nenhum problema foi encontrado durante a execução desta atividade.
 
 ## 6. Conclusão
 A realização desta atividade possibilitou a instalação e configuração do **Ubuntu Server, 26.04**, permitindo compreender, na prática, os principais procedimentos envolvidos na preparação de um ambiente de servidor.
