@@ -49,8 +49,8 @@ sudo apt-get update
 Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e instalar as atualizações disponíveis para o sistema.
 
 ## 4. Capturas de Tela
-**Figura 1 – Tela de Partições**
-<img width="400" height="196" alt="Captura de tela 2026-08-12 203109" src="https://github.com/user-attachments/assets/f6cbd225-2846-420d-8e24-7282c983b438" />
+**Figura 1 – Tela de Partições** <br>
+<img width="448" height="160" alt="635183162-f6cbd225-2846-420d-8e24-7282c983b438" src="https://github.com/user-attachments/assets/bd840eb4-60f6-4a18-92da-51565db97cf6" />
 
 **Figura 2 – Login como administrador**
 <img width="810" height="618" alt="Captura de tela 2026-08-12 203030" src="https://github.com/user-attachments/assets/ce37e0a9-ca54-43e9-9403-68b9948bbd9f" />
@@ -59,10 +59,14 @@ Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e
 <img width="603" height="167" alt="Captura de tela 2026-08-12 203055" src="https://github.com/user-attachments/assets/8b5f57b1-8532-4daa-8e52-6eab00392619" />
 
 **Figura 4 - Saída ip addr**
-<img width="863" height="159" alt="680917185-0a1cdf12-d91b-42cb-b053-f1c622d653c4" src="https://github.com/user-attachments/assets/f7dd087b-db70-46f0-a28d-c92cae01febb" />
+<img width="845" height="159" alt="680917185-0a1cdf12-d91b-42cb-b053-f1c622d653c4" src="https://github.com/user-attachments/assets/2fa37b8f-28eb-4979-858b-9426f8b88194" />
+
+Comando usado para mostrar a interface atual da rede e o IP que a máquina recebeu após a configuração
 
 **Figura 5 - Saída df -h**  <br>
 <img width="774" height="223" alt="680918032-a87bbb27-fc44-4463-bcd9-674cea30d4b5" src="https://github.com/user-attachments/assets/69802279-7fae-401c-8adf-03d71027d39d" />
+
+Comando usado para exibir as configurações atuais de pastas no sistema.
 
 ## 5. Problemas e Soluções
 Nenhum problema foi encontrado durante a execução desta atividade.
