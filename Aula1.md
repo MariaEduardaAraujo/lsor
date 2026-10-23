@@ -11,7 +11,6 @@
 O objetivo desta atividade foi realizar a instalação e configuração do **Ubuntu Server, 26.04**, preparando um ambiente de servidor funcional para a execução das atividades propostas na disciplina.
 Durante o procedimento, foram realizadas as configurações necessárias para disponibilizar o sistema operacional, verificar seu funcionamento e testar os principais recursos configurados.
 
-
 ## 2. Ambiente
 A atividade foi realizada utilizando o seguinte ambiente:
 
@@ -48,6 +47,15 @@ sudo apt-get update
 ```
 Esses comandos foram utilizados para atualizar a lista de pacotes disponíveis e instalar as atualizações disponíveis para o sistema.
 
+## 3.3 Testando o sistema
+
+Ao final da instalação e atualização dos pacotes, foram executados dois comandos a fim de verificar as configurações atuais do sistema.
+```bash
+ip addr
+e
+df -h
+```
+
 ## 4. Capturas de Tela
 **Figura 1 – Tela de Partições** <br>
 <img width="448" height="160" alt="635183162-f6cbd225-2846-420d-8e24-7282c983b438" src="https://github.com/user-attachments/assets/bd840eb4-60f6-4a18-92da-51565db97cf6" />
@@ -66,7 +74,7 @@ Comando usado para mostrar a interface atual da rede e o IP que a máquina receb
 **Figura 5 - Saída df -h**  <br>
 <img width="774" height="223" alt="680918032-a87bbb27-fc44-4463-bcd9-674cea30d4b5" src="https://github.com/user-attachments/assets/69802279-7fae-401c-8adf-03d71027d39d" />
 
-Comando usado para exibir as configurações atuais de pastas no sistema.
+Comando usado para exibir o uso do disco e os pontos de montagem do sistema.
 
 ## 5. Problemas e Soluções
 Nenhum problema foi encontrado durante a execução desta atividade.
