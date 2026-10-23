@@ -30,7 +30,7 @@ A atividade foi realizada utilizando o seguinte ambiente:
 | Interface interna da VM1 | Rede Interna (enp0s8) |
 | Interface da VM2 | Rede Interna (enp0s3) |
 
-### 3. Endereçamento de rede
+## 3. Endereçamento de rede
 
 | Equipamento | Interface | Endereço IP |
 |---|---|---|
