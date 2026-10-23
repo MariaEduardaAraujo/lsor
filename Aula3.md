@@ -2,12 +2,15 @@
 
 > **Disciplina:** LSOR <br>
 > **Professor(a):** Alaelson <br>
-> **Aluno(a):** Maria Eduarda <br>
-> **Data:** 19/08 <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
+> **Data:** 19/08/2026
+
 
 ## 1. Objetivo
 O objetivo desta atividade foi compreender a estrutura de diretórios do Linux, seguindo o padrão **Filesystem Hierarchy Standard (FHS)**, além de praticar a criação de estruturas de diretórios, gerenciamento de grupos e configuração de permissões de acesso.
-Também foram realizados testes de isolamento entre diferentes departamentos, utilizando grupos e permissões, além da aplicação dos comandos vistos na aula anteriror (`chown`, `chmod`, `mkdir -p`, `su` e `su -`).
+Também foram realizados testes de isolamento entre diferentes departamentos, utilizando grupos e permissões, além da aplicação dos comandos vistos na aula anterior (`chown`, `chmod`, `mkdir -p`, `su` e `su -`).
 
 ## 2. Ambiente
 A atividade foi realizada utilizando o seguinte ambiente:
@@ -19,7 +22,7 @@ A atividade foi realizada utilizando o seguinte ambiente:
 | Memória RAM                 | 2 GB                |
 | Processadores               | 1 vCPU              |
 | Armazenamento               | 32 GB               |
-| Rede                        | -                   |
+| Rede                        | NAT, enp0s3, 10.0.2.15/24|
 | Computador hospedeiro       | Windows 11          |
 
 ## 3. Procedimento
@@ -51,7 +54,7 @@ Figura 3 – Testes de acesso ao diretório da Diretoria: <br>
 <img width="400" height="53" alt="Captura de tela 2026-08-20 101255" src="https://github.com/user-attachments/assets/d1a7fd9e-9ef8-4441-8c0b-13bf747deba1" />
 
 ## 5. Problemas e Soluções
-Nenhum problema foi encontrado.
+Nenhum problema foi encontrado durante a execução desta atividade.
 
 ## 6. Conclusão
 A realização desta atividade possibilitou compreender a organização dos diretórios do Linux segundo o padrão FHS e aplicar, na prática, conceitos de administração e segurança de arquivos e diretórios. A utilização do `su -` permitiu compreender a importância de realizar testes em um ambiente de login adequado. Dessa forma, os objetivos da atividade foram alcançados, reforçando os conhecimentos relacionados à organização do sistema de arquivos e ao controle de acesso em servidores Linux.
