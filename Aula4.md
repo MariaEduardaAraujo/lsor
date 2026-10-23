@@ -2,7 +2,9 @@
 
 > **Disciplina:** LSOR <br>
 > **Professor(a):** Alaelson <br>
-> **Aluno(a):** Maria Eduarda <br>
+> **Aluno(a):** Maria Eduarda de Araújo Silva <br>
+> **Matrícula:** 2023007122 <br>
+> **Turma:** BSI 2026.02 <br>
 > **Data:** 31/08/2026
 
 ## 1. Objetivo
@@ -18,10 +20,13 @@ A atividade foi realizada utilizando o seguinte ambiente:
 | Memória RAM                 | 2 GB                |
 | Processadores               | 1 vCPU              |
 | Armazenamento               | 32 GB               |
-| Rede                        | -                   |
+| Rede                        | NAT, enp0s3, 10.0.2.15/24|
 | Computador hospedeiro       | Windows 11          |
 
 ## 3. Procedimento
+### 3.0 Execução de comandos 
+Antes da execução da atividade foram executados comandos como o touch e mv para fins de conhecimento destes comandos.
+
 ### 3.1 Criação da lista de usuários
 Foi criado o arquivo `usuarios.txt`, contendo uma lista de 20 usuários que seriam cadastrados automaticamente.
 O arquivo foi criado e editado utilizando o Nano:
@@ -123,7 +128,7 @@ Realizou a definição das senhas dos usuários criados.
 <img width="359" height="57" alt="image" src="https://github.com/user-attachments/assets/48a48e82-39d4-410c-922e-d22af962311d" />
 
 ## 5. Problemas e Soluções
-Nenhum problema foi encontrado.
+Nenhum problema foi encontrado durante a execução desta atividade.
 
 ## 6. Conclusão
 A realização desta atividade possibilitou compreender, na prática, a manipulação e a edição de arquivos no sistema operacional Linux. A criação dos scripts em Shell também demonstrou a importância da automação na administração de sistemas.
