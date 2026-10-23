@@ -22,10 +22,11 @@ A atividade foi realizada utilizando duas máquinas virtuais:
 | Sistema operacional | Ubuntu Server 26.04 | Ubuntu Server 26.04 |
 | Plataforma          | VirtualBox          | VirtualBox          |
 | Função              | Gateway             | Cliente             |
-| Interface interna   | `enp0s8`            | intnet              |
-| Interface externa   | `enp0s3`            | -                   |
-| Rede externa        | `172.20.23.13/22`   | `10.0.0.14/24`      |
-| Gateway interno     | `172.20.20.1`       | `10.0.0.13`         |
+| Interface externa   | `enp0s3` (Bridge)   | -                   |
+| IP externo          | `172.20.23.13/22`   | -                   |
+| Interface interna   | `enp0s8` (intnet)   | `enp0s3` (intnet)   |
+| IP interno          | `10.0.0.13/24`      | `10.0.0.14/24`      |
+| Gateway padrão      | `172.20.20.1`       | `10.0.0.13`         |
 
 ## 3. Procedimento
 
